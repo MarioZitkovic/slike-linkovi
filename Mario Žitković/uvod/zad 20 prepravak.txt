@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<title>PRODAJEM DOMACE SVINJE Z MOLVICA</title>
+<meta charset="UTF-8">
+<style>
+	table,tr,td{
+	border:1px solid khaki;
+		}
+</style>
+</head>
+<table>
+<thead>
+	<tr>
+		<td>Redni broj:</td>
+		<td>Ime</td>
+		<td>Prezime</td>
+		<td>Broj bodova</td>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1.</td>
+		<td>Pero</td>
+		<td>Perić</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>2.</td>
+		<td>Jozo</td>
+		<td>Marić</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>3.</td>
+		<td>Stipe</td>
+		<td>Josić</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>4.</td>
+		<td>Marko</td>
+		<td>Marulić</td>
+		<td>82</td>
+	</tr>
+</tbody>
+<tfoot>
+	<tr>
+		<td>Ukupni</td>
+		<td>Broj</td>
+		<td>Bodova</td>
+		<td>341</td>
+	</tr>
+</tfoot>
+</table>
+</body>
+</html>
