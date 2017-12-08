@@ -1,0 +1,14 @@
+h1.under {
+	text-decoration: overline;
+	text-transform: capitalize;
+	color: red;
+}
+
+p.under{
+	text-indent: 20px;
+	text-decoration: underline;
+	letter-spacing: -2px;
+}
+p.upper{
+	letter-spacing: 2px;
+}

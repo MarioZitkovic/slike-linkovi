@@ -1,0 +1,21 @@
+h1.under {
+	text-decoration: overline;
+	text-transform: capitalize;
+	color: red;
+}
+
+div.prvi > p {
+	line-height: 0.5px;
+	direction: ltr;
+	word-spacing: -5px;
+}
+div.drugi > p {
+	line-height: 1.5px;
+	direction: rtl;
+	word-spacing: 15px;
+}
+div.treci > p {
+	line-height: 15px;
+	direction: ltr;
+	word-spacing: -1px;
+}
