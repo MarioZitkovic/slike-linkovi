@@ -1,0 +1,13 @@
+body{
+	
+	background-image:url("http://www.aldaron.estranky.cz/img/mid/34/cool-krava.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+h1{
+	background-color:#C00000;
+}
+p{
+	background-color:#E00000;
+}
