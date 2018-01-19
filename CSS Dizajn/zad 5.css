@@ -1,0 +1,12 @@
+p.drugi {
+	border-style:inset;
+	margin-left:inherit;
+}
+p.prvi {
+	border-top-style:thin;
+	border-bottom-style:thin;	
+}
+div {
+	border:1px solid red;
+	margin-left:80px;
+}

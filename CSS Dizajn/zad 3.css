@@ -1,0 +1,8 @@
+p {
+	text-align:center;
+	margin:inherit;
+}
+div {
+	border: 1px solid red;
+	margin-left: 100px;
+}

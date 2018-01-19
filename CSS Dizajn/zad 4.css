@@ -1,0 +1,8 @@
+p.drugi {
+	border-style:inset;
+}
+p.prvi {
+	border-top-style:thin;
+	border-bottom-style:thin;
+	
+}
