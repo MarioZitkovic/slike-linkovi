@@ -1,0 +1,16 @@
+p {
+	border: 1px solid black;
+}
+
+p.prvi{
+	outline-width:width;
+	outline-style:double;
+	outline-color:red;
+}
+
+p.drugi {
+	border:1px solid black;
+	outline-style:ridge;
+	outline-color:red;
+}
+

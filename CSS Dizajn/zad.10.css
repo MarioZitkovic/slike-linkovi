@@ -1,0 +1,15 @@
+p {
+	border: 1px solid black;
+}
+
+p.prvi {
+	outline-width:thick;
+	outline-style:double;
+	outline-color:red;
+}
+
+p.drugi {
+	outline-width:3px;
+	outline-style:double;
+	outline-color:zelena;
+}
